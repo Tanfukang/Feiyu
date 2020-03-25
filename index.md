@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tanfukang/Feiyu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanfukang/Feiyu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 个人信息
+姓名：谭富康
+毕业学校：湖南科技职业学院
+专业：软件技术（企业应用软件开发方向）
+工作年限：3年
+Tel:15573456745
+WeChat:TAN1998888
+Email：feiyu_job@163.com
+##专业技能
+1.熟练掌握HTML5+CSS3网页开发布局、能使用其解决移动端适配问题。 
+2.了解DOM，熟悉原生JavaScript，掌握JS概念。熟悉ES6开发。
+3.了解前后端联合开发的技术原理：Ajax, Json，axios。 
+4.熟悉运用jQuery、jQuery UI、vue.js、element-ui、vant、layui等主流前端框架。
+5.熟悉微信端小程序、uniapp混合式开发。
+6.熟悉使用node，mysql，sqlserver，能够使用node+express开发后端接口。
+7.使用过CSS预处理器SASS、Less；pug、stylus等预编html、css。
+8.熟悉使用熟悉gulp、webpack、rollup等打包构建工具。
+9.熟悉使用git、遵循git flow工作流程、习惯单元测试。
+熟练使用接口调用测试工具Postman。
